@@ -1,5 +1,5 @@
 /*
- * Copyright 2005-2017 Dozer Project
+ * Copyright 2005-2018 Dozer Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -44,7 +44,7 @@ public class DozerResolver implements EntityResolver {
 
     private final Logger log = LoggerFactory.getLogger(DozerResolver.class);
     private static final String VERSION_5_XSD = "http://dozer.sourceforge.net/schema/beanmapping.xsd";
-    private static final String VERSION_6_XSD = "http://dozermapper.github.io/schema/bean-mapping.xsd";
+    private static final String VERSION_6_XSD = "https://dozermapper.github.io/schema/bean-mapping.xsd";
 
     private final BeanContainer beanContainer;
 

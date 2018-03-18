@@ -1,5 +1,5 @@
 /*
- * Copyright 2005-2017 Dozer Project
+ * Copyright 2005-2018 Dozer Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@ public class Version5XSDTest {
     private String message = "Dozer >= v6.0.0 uses a new XSD location. " +
                              "Your current config needs to be upgraded. " +
                              "Found v5 XSD: 'http://dozer.sourceforge.net/schema/beanmapping.xsd'. " +
-                             "Expected v6 XSD: 'http://dozermapper.github.io/schema/bean-mapping.xsd'. " +
+                             "Expected v6 XSD: 'https://dozermapper.github.io/schema/bean-mapping.xsd'. " +
                              "Please see migration guide @ https://dozermapper.github.io/gitbook";
 
     @Test

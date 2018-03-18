@@ -1,5 +1,5 @@
 /*
- * Copyright 2005-2017 Dozer Project
+ * Copyright 2005-2018 Dozer Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 package org.dozer.vo.enumtest;
 
 /**
- * Overrided Enum for enum mapping test
+ * Overridden Enum for enum mapping test
  * @author cchou.hung
  *
  */
